@@ -9,7 +9,7 @@ let herois = [
     { nome :"Dragonite",xp : 12000},
     { nome :"Gardevoir" ,xp : 900},
 ]
-
+// usei o for para poder percorrer a lista, também utilizei  o if como estrutura de decisão para desgnar os niveis de cada herói.
 
 for (let index = 0; index < herois.length; index++) {
 
