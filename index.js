@@ -10,14 +10,6 @@ let herois = [
     { nome :"Gardevoir" ,xp : 900},
 ]
 
-switch (herois) {
-    case 2500:
-        
-        break;
-
-    default:
-        break;
-}
 
 for (let index = 0; index < herois.length; index++) {
 
